@@ -5,13 +5,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffd1c11-dbae-4a5c-ab1f-b652fb0adbd2" name="Default Changelist" comment="First commit" />
+    <list default="true" id="7ffd1c11-dbae-4a5c-ab1f-b652fb0adbd2" name="Default Changelist" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/homeworks/les1/task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dHR3MOaJOOCpFLgnc0anACdKF9" />
@@ -57,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592082047643</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First commit">
+      <created>1592082132229</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592082132229</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,10 +103,10 @@
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
     <state x="282" y="205" key="SettingsEditor/0.0.1280.1024@0.0.1280.1024" timestamp="1592081777888" />
-    <state x="464" y="265" key="Vcs.Push.Dialog.v2" timestamp="1592080265729">
+    <state x="464" y="265" key="Vcs.Push.Dialog.v2" timestamp="1592082141038">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
-    <state x="464" y="265" key="Vcs.Push.Dialog.v2/0.0.1280.1024@0.0.1280.1024" timestamp="1592080265729" />
+    <state x="464" y="265" key="Vcs.Push.Dialog.v2/0.0.1280.1024@0.0.1280.1024" timestamp="1592082141038" />
     <state x="356" y="318" width="672" height="678" key="search.everywhere.popup" timestamp="1592081561744">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
