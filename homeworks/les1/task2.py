@@ -12,7 +12,7 @@ print(hours)
 minutes = int((user_time - hours * 3600)/60)
 # Вычисляем секунды
 seconds = user_time - hours * 3600 - minutes * 60
-# Защита от
+# Защита от превышения максимального значения
 if hours > 99:
     print("Превышено максимальное значение")
 else:
