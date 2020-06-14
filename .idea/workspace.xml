@@ -6,8 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ffd1c11-dbae-4a5c-ab1f-b652fb0adbd2" name="Default Changelist" comment="HW les1">
-      <change afterPath="$PROJECT_DIR$/les1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/les1/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/les1/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/les1/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/les1/task6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/les1/task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/les1/task1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +45,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_basic_11_06_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homeworks/les1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homeworks/les1/task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -88,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592082828995</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HW les1">
+      <created>1592084108983</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592084108983</updated>
+    </task>
+    <task id="LOCAL-00007" summary="HW les1">
+      <created>1592145930869</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592145930869</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,18 +150,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="HW les1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="465" y="321" key="#Python" timestamp="1592143070013">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state x="465" y="321" key="#Python/0.0.1280.1024@0.0.1280.1024" timestamp="1592143070013" />
+    <state x="95" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592146411965">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state x="95" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.1024@0.0.1280.1024" timestamp="1592146411965" />
+    <state width="1238" height="188" key="GridCell.Tab.0.bottom" timestamp="1592145945151">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.0.bottom/0.0.1280.1024@0.0.1280.1024" timestamp="1592145945151" />
+    <state width="1238" height="188" key="GridCell.Tab.0.center" timestamp="1592145945151">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.0.center/0.0.1280.1024@0.0.1280.1024" timestamp="1592145945151" />
+    <state width="1238" height="188" key="GridCell.Tab.0.left" timestamp="1592145945151">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.0.left/0.0.1280.1024@0.0.1280.1024" timestamp="1592145945151" />
+    <state width="1238" height="188" key="GridCell.Tab.0.right" timestamp="1592145945151">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.0.right/0.0.1280.1024@0.0.1280.1024" timestamp="1592145945151" />
     <state x="282" y="205" key="SettingsEditor" timestamp="1592081777888">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
     <state x="282" y="205" key="SettingsEditor/0.0.1280.1024@0.0.1280.1024" timestamp="1592081777888" />
-    <state x="464" y="265" key="Vcs.Push.Dialog.v2" timestamp="1592082915374">
+    <state x="464" y="265" key="Vcs.Push.Dialog.v2" timestamp="1592145938571">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
-    <state x="464" y="265" key="Vcs.Push.Dialog.v2/0.0.1280.1024@0.0.1280.1024" timestamp="1592082915374" />
-    <state x="356" y="318" width="672" height="678" key="search.everywhere.popup" timestamp="1592081561744">
+    <state x="464" y="265" key="Vcs.Push.Dialog.v2/0.0.1280.1024@0.0.1280.1024" timestamp="1592145938571" />
+    <state x="356" y="318" width="672" height="678" key="search.everywhere.popup" timestamp="1592144388342">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
-    <state x="356" y="318" width="672" height="678" key="search.everywhere.popup/0.0.1280.1024@0.0.1280.1024" timestamp="1592081561744" />
+    <state x="356" y="318" width="672" height="678" key="search.everywhere.popup/0.0.1280.1024@0.0.1280.1024" timestamp="1592144388342" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
