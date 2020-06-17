@@ -6,8 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ffd1c11-dbae-4a5c-ab1f-b652fb0adbd2" name="Default Changelist" comment="HW les1">
+      <change afterPath="$PROJECT_DIR$/homeworks/les2/task1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/les1/task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/les1/task4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +24,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="aaa" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1dHR3MOaJOOCpFLgnc0anACdKF9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -42,7 +43,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.task4">
+  <component name="RunManager" selected="Python.task1 (1)">
+    <configuration name="task1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_basic_11_06_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homeworks/les2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homeworks/les2/task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_basic_11_06_2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,6 +151,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task1 (1)" />
         <item itemvalue="Python.task4" />
         <item itemvalue="Python.task3" />
         <item itemvalue="Python.task2" />
@@ -286,10 +309,14 @@
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
     <state x="282" y="205" key="SettingsEditor/0.0.1280.1024@0.0.1280.1024" timestamp="1592081777888" />
-    <state x="464" y="265" key="Vcs.Push.Dialog.v2" timestamp="1592153231145">
+    <state x="464" y="265" key="Vcs.Push.Dialog.v2" timestamp="1592428911928">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
-    <state x="464" y="265" key="Vcs.Push.Dialog.v2/0.0.1280.1024@0.0.1280.1024" timestamp="1592153231145" />
+    <state x="464" y="265" key="Vcs.Push.Dialog.v2/0.0.1280.1024@0.0.1280.1024" timestamp="1592428911928" />
+    <state x="442" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592428817128">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state x="442" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.1024@0.0.1280.1024" timestamp="1592428817128" />
     <state x="356" y="318" width="672" height="678" key="search.everywhere.popup" timestamp="1592153479752">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
