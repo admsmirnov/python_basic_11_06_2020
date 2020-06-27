@@ -5,7 +5,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffd1c11-dbae-4a5c-ab1f-b652fb0adbd2" name="Default Changelist" comment="First commit" />
+    <list default="true" id="7ffd1c11-dbae-4a5c-ab1f-b652fb0adbd2" name="Default Changelist" comment="HW les2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +17,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dHR3MOaJOOCpFLgnc0anACdKF9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -77,14 +82,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="282" y="205" key="SettingsEditor" timestamp="1592081777888">
+    <state x="397" y="231" key="RollbackChangesDialog" timestamp="1593285499704">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
-    <state x="282" y="205" key="SettingsEditor/0.0.1280.1024@0.0.1280.1024" timestamp="1592081777888" />
-    <state x="464" y="265" key="Vcs.Push.Dialog.v2" timestamp="1592080265729">
+    <state x="397" y="231" key="RollbackChangesDialog/0.0.1280.1024@0.0.1280.1024" timestamp="1593285499704" />
+    <state x="133" y="209" key="SettingsEditor" timestamp="1593286484315">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
-    <state x="464" y="265" key="Vcs.Push.Dialog.v2/0.0.1280.1024@0.0.1280.1024" timestamp="1592080265729" />
+    <state x="133" y="209" key="SettingsEditor/0.0.1280.1024@0.0.1280.1024" timestamp="1593286484315" />
+    <state x="464" y="265" key="Vcs.Push.Dialog.v2" timestamp="1593285621541">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state x="464" y="265" key="Vcs.Push.Dialog.v2/0.0.1280.1024@0.0.1280.1024" timestamp="1593285621541" />
     <state x="356" y="318" width="672" height="678" key="search.everywhere.popup" timestamp="1592081561744">
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
